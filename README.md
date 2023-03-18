@@ -1,2 +1,2 @@
 # ChatMob-
-application mobile with chat api chatgpt
+application mobile with  api chatgpt
